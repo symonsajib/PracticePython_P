@@ -17,6 +17,8 @@ Since these are for begginers, I must say, after knpowing some basics of the lan
 
 
 
+
+
 “Growth is often the parent or the child of pain.”
 ― Mokokoma Mokhonoana
      
