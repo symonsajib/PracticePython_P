@@ -1,7 +1,7 @@
 # PracticePythoon
 
 What it is? :
-There are 36 exercises for python learners to practice in http://www.practicepython.org/
+There are 36 exercises for python learners to practice in http://www.practicepython.org/.
 This repo contains my solutions for these exercises. 
               
 For Whom? : 
