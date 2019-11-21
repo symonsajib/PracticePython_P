@@ -18,10 +18,7 @@ HOW TO START? :
 
 Since these are for begginers, I must say, after knpowing some basics of the language, jumping to solve some begginer                     level problems independently can be a good direction to learn. Getting stuck is common, so learning to find a way to                       overcome it with the help of internet, forums or blogs are also crucial. Anyway, These 36 exercise can be a good start.                   Try solving them by yourself first. 
 
-
-
-
-
+------------------------------------------------------------------------------------------------------
 
 “Growth is often the parent or the child of pain.”
 ― Mokokoma Mokhonoana
